@@ -71,5 +71,3 @@ python main.py --selftest
 python main.py --cli --target 192.168.1.0/24 --mode discover
 ```
 ---
-## license
-#### MIT. do what you want, just don't point it at networks you don't own. and if you did, that's on you.
